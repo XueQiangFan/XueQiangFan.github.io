@@ -9,7 +9,7 @@
 <html>
 <body>
 
-<table border="1">
+<table>
   <tr>
     <th>日期</th>
     <th>报告人</th>
@@ -25,7 +25,7 @@
     <td>曾文武</td>
     <td></td>
   </tr>
-   <tr>
+  <tr>
     <td>13日</td>
     <td>殷文杰</td>
     <td></td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>27日</td>
-    <td>董 明</td>
+    <td>董  明</td>
     <td></td>
   </tr>
 </table>
