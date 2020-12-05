@@ -20,8 +20,6 @@
     <td>樊学强</td>
     <td>RNA Solvent Accessibility Prediction</td>
   </tr>
-  
-  
   <tr>
     <td>13日</td>
     <td>曾文武</td>
@@ -32,8 +30,6 @@
     <td>殷文杰</td>
     <td></td>
   </tr>
-  
-  
   <tr>
     <td>20日</td>
     <td>郑琳琳</td>
@@ -49,8 +45,6 @@
     <td>贾宁欣</td>
     <td></td>
   </tr>
-  
-  
  <tr>
     <td>27日</td>
     <td>白岩松</td>
@@ -62,7 +56,6 @@
     <td></td>
   </tr>
 </table>
-
 </body>
 </html>
 
