@@ -38,21 +38,21 @@
   <tr>
     <td>20日</td>
     <td>樊学强</td>
-    <td>RNA Solvent 实验初步结果</td>
+    <td></td>
   </tr>
   <tr>
     <td>20日</td>
     <td>贾宁欣</td>
     <td></td>
   </tr>
- <tr>
+  <tr>
     <td>27日</td>
     <td>白岩松</td>
     <td></td>
   </tr>
   <tr>
     <td>27日</td>
-    <td>董明</td>
+    <td>董 明</td>
     <td></td>
   </tr>
 </table>
