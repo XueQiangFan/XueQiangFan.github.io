@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>27日</td>
-    <td>董  明</td>
+    <td>董   明</td>
     <td></td>
   </tr>
 </table>
