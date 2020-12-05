@@ -16,7 +16,7 @@
     <th>报告内容概要</th>    
   </tr>
   <tr>
-    <td>6日</td>
+    <td>06日</td>
     <td>樊学强</td>
     <td>RNA Solvent Accessibility Prediction</td>
   </tr>
