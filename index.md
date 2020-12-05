@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/XueQiangFan/XueQiangFan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## JunHu Lab Work Report Plan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2020年12月
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<html>
+<body>
 
-- Bulleted
-- List
+<table border="1">
+  <tr>
+    <th>日期</th>
+    <th>报告人</th>
+    <th>报告内容概要</th>    
+  </tr>
+  <tr>
+    <td>6日</td>
+    <td>樊学强</td>
+    <td>RNA Solvent Accessibility Prediction</td>
+  </tr>
+  <tr>
+    <td>13日</td>
+    <td>曾文武</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>20日</td>
+    <td>郑琳琳</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>20日</td>
+    <td>樊学强</td>
+    <td>RNA Solvent 实验初步结果</td>
+  </tr>
+  <tr>
+    <td>20日</td>
+    <td>贾宁欣</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>27日</td>
+    <td>白岩松</td>
+    <td></td>
+  </tr>
+</table>
 
-1. Numbered
-2. List
+</body>
+</html>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XueQiangFan/XueQiangFan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
