@@ -23,7 +23,7 @@
   <tr>
     <td>13日</td>
     <td>曾文武</td>
-    <td></td>
+    <td>Protein Secondary Structure Prediction</td>
   </tr>
   <tr>
     <td>13日</td>
