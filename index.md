@@ -28,7 +28,7 @@
   <tr>
     <td>13日</td>
     <td>殷文杰</td>
-    <td></td>
+    <td>Learn LSTMMergeSENet</td>
   </tr>
   <tr>
     <td>20日</td>
