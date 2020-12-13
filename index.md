@@ -38,7 +38,7 @@
   <tr>
     <td>20日</td>
     <td>樊学强</td>
-    <td>RNA </td>
+    <td></td>
   </tr>
   <tr>
     <td>20日</td>
