@@ -33,12 +33,12 @@
   <tr>
     <td>20日</td>
     <td>郑琳琳</td>
-    <td></td>
+    <td>ATP binding prediction</td>
   </tr>
   <tr>
     <td>20日</td>
     <td>樊学强</td>
-    <td></td>
+    <td>RNA </td>
   </tr>
   <tr>
     <td>20日</td>
