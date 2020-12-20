@@ -41,11 +41,6 @@
     <td>RNA溶剂可及性初步实验结果</td>
   </tr>
   <tr>
-    <td>20日</td>
-    <td>贾宁欣</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>27日</td>
     <td>白岩松</td>
     <td></td>
