@@ -34,12 +34,6 @@
     <td></td>
   </tr>
   
-  <tr>
-    <td>17日</td>
-    <td>郑琳琳</td>
-    <td>ATP binding prediction</td>
-  </tr>
-  
    <tr>
     <td>17日</td>
     <td>董    明</td>
