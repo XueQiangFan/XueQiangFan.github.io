@@ -43,7 +43,7 @@
    <tr>
     <td>17日</td>
     <td>贾宁欣</td>
-    <td></td>
+    <td>DeepPhos repetition-data secondary processing and network building</td>
   </tr>
   
   <tr>
