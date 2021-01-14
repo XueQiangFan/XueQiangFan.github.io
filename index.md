@@ -47,27 +47,22 @@
   </tr>
   
   <tr>
-    <td>24日</td>
-    <td>樊学强</td>
-    <td>RNA溶剂可及性实验结果</td>
+    <td>23日</td>
+    <td>郑琳琳</td>
+    <td></td>
   </tr>
   
   <tr>
-    <td>24日</td>
+    <td>23日</td>
     <td>殷文杰</td>
     <td></td>
   </tr>
    <tr>
-    <td>24日</td>
+    <td>23日</td>
     <td>曾文武</td>
     <td></td>
   </tr>
   
-  <tr>
-    <td>31日</td>
-    <td>郑琳琳</td>
-    <td></td>
-  </tr>
   <tr>
     <td>31日</td>
     <td>董   明</td>
