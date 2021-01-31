@@ -19,7 +19,7 @@
   <tr>
     <td>7日</td>
     <td>郑琳琳</td>
-    <td>RNA Solvent Accessibility Prediction</td>
+    <td></td>
   </tr>
   
   <tr>
@@ -31,7 +31,7 @@
   <tr>
     <td>7日</td>
     <td>樊学强</td>
-    <td></td>
+    <td>RNA Solvent Accessibility Prediction</td>
   </tr>
   
   <tr>
