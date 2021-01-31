@@ -1,7 +1,7 @@
 
 ## JunHu Lab Work Report Plan
 
-### 2021年01月
+### 2021年02月
 
 
 
@@ -17,58 +17,52 @@
   </tr>
   
   <tr>
-    <td>10日</td>
-    <td>樊学强</td>
+    <td>7日</td>
+    <td>郑琳琳</td>
     <td>RNA Solvent Accessibility Prediction</td>
   </tr>
   
   <tr>
-    <td>10日</td>
-    <td>殷文杰</td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>10日</td>
-    <td>曾文武</td>
-    <td></td>
-  </tr>
-  
-   <tr>
-    <td>17日</td>
-    <td>董    明</td>
-    <td></td>
-  </tr>
-  
-   <tr>
-    <td>17日</td>
+    <td>7日</td>
     <td>贾宁欣</td>
-    <td>DeepPhos repetition-data secondary processing and network building</td>
-  </tr>
-  
-  <tr>
-    <td>22日</td>
-    <td>郑琳琳</td>
     <td></td>
   </tr>
   
   <tr>
-    <td>22日</td>
-    <td>殷文杰</td>
+    <td>7日</td>
+    <td>樊学强</td>
     <td></td>
   </tr>
-   <tr>
-    <td>22日</td>
+  
+  <tr>
+    <td>21日</td>
     <td>曾文武</td>
     <td></td>
   </tr>
   
+   <tr>
+    <td>21日</td>
+    <td>董明</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>21日</td>
+    <td>白岩松</td>
+    <td></td>
+  </tr>
+  
   <tr>
-    <td>31日</td>
+    <td>28日</td>
     <td>董   明</td>
     <td></td>
   </tr>
-
+  
+  <tr>
+    <td>28日</td>
+    <td>殷文杰</td>
+    <td></td>
+  </tr>
+  
   
   
 </table>
