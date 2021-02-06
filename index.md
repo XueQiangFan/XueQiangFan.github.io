@@ -17,19 +17,19 @@
   </tr>
   
   <tr>
-    <td>7日</td>
+    <td>待定</td>
     <td>郑琳琳</td>
     <td></td>
   </tr>
   
   <tr>
-    <td>7日</td>
+    <td>待定</td>
     <td>董明</td>
     <td></td>
   </tr>
   
   <tr>
-    <td>7日</td>
+    <td>待定</td>
     <td>樊学强</td>
     <td>RNA Solvent Accessibility Prediction</td>
   </tr>
