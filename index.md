@@ -31,7 +31,7 @@
   <tr>
     <td>7日</td>
     <td>郑琳琳</td>
-    <td>RNA Solvent Accessibility Prediction</td>
+    <td></td>
   </tr>
   
   <tr>
