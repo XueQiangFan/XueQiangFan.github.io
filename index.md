@@ -17,45 +17,33 @@
   </tr>
   
   
-  <tr>
-    <td>2日</td>
-    <td>贾宁欣</td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>2日</td>
-    <td>董明</td>
-    <td></td>
-  </tr>
-  
   
    <tr>
     <td>9日</td>
-    <td>殷文杰</td>
+    <td>樊学强</td>
     <td></td>
   </tr>
   <tr>
     <td>9日</td>
-    <td>曾文武</td>
+    <td>董  明</td>
     <td></td>
   </tr>
 
   
   <tr>
     <td>16日</td>
-    <td>樊学强</td>
+    <td>贾宁欣</td>
     <td></td>
   </tr>
   
   <tr>
     <td>16日</td>
-    <td>董明</td>
+    <td>曾文武</td>
     <td></td>
   </tr>
   <tr>
     <td>23日</td>
-    <td>贾宁欣</td>
+    <td>董  明</td>
     <td></td>
   </tr>
    <tr>
