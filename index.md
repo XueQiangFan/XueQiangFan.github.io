@@ -1,7 +1,7 @@
 
 ## JunHu Lab Work Report Plan
 
-### 2021年05月
+### 2021年06月
 
 
 
@@ -19,54 +19,52 @@
   
   
    <tr>
-    <td>9日</td>
-    <td>樊学强</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9日</td>
-    <td>董  明</td>
-    <td></td>
-  </tr>
-
-  
-  <tr>
-    <td>16日</td>
-    <td>贾宁欣</td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>16日</td>
-    <td>曾文武</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>23日</td>
-    <td>董  明</td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>23日</td>
-    <td>樊学强</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>23日</td>
+    <td>6日</td>
     <td>殷文杰</td>
     <td></td>
   </tr>
   <tr>
-    <td>30日</td>
-    <td>贾宁欣</td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>30日</td>
-    <td>曾文武</td>
+    <td>6日</td>
+    <td贾宁欣</td>
     <td></td>
   </tr>
 
+  
+  <tr>
+    <td>13日</td>
+    <td>董  明</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13日</td>
+    <td>白岩松</td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td>20日</td>
+    <td>郑琳琳</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>20日</td>
+    <td>樊学强</td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td>27日</td>
+    <td>董明</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>27日</td>
+    <td>曾文武</td>
+    <td></td>
+  </tr>
+  
 
   
   
