@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>13日</td>
-    <td>白岩松</td>
+    <td></td>
     <td></td>
   </tr>
   
@@ -44,11 +44,6 @@
   <tr>
     <td>20日</td>
     <td>郑琳琳</td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>20日</td>
-    <td>樊学强</td>
     <td></td>
   </tr>
   
